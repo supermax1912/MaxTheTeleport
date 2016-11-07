@@ -1,0 +1,5 @@
+name: MaxTheSpawn
+main: me.maxthehaxor.maxthespawn.Main
+version: 0.1
+author: MaxTheHaxor
+description: Launches a firework when a player joins.
